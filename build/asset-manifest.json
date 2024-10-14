@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SportsScreenshot/static/css/main.b06742d4.css",
+    "main.js": "/SportsScreenshot/static/js/main.130e1fcc.js",
+    "index.html": "/SportsScreenshot/index.html",
+    "main.b06742d4.css.map": "/SportsScreenshot/static/css/main.b06742d4.css.map",
+    "main.130e1fcc.js.map": "/SportsScreenshot/static/js/main.130e1fcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06742d4.css",
+    "static/js/main.130e1fcc.js"
+  ]
+}

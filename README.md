@@ -32,13 +32,13 @@
 1. 克隆仓库:
 
    ```bash
-   git clone https://github.com/yourusername/sport-screenshot-generator.git
+   git clone https://github.com/1296732953/keep.git
    ```
 
 2. 进入项目目录:
 
    ```bash
-   cd sport-screenshot-generator
+   cd keep
    ```
 
 3. 安装依赖:
